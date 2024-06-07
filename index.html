@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Photo Gallery</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="gallery">
+        <div class="card">
+            <img src="images/image1.png" alt="Fennec Fox">
+            <div class="dark-overlay"></div>
+            <div class="info">
+                <h2>Fennec fox</h2>
+                <p>India</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="images/image2.png" alt="Humpback Whale">
+            <div class="dark-overlay"></div>
+            <div class="info">
+                <h2>Humpback whale</h2>
+                <p>South Africa</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="images/image3.png" alt="Common Brown Baboon">
+            <div class="dark-overlay"></div>
+            <div class="info">
+                <h2>Common brown baboon</h2>
+                <p>South Africa</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="images/image4.png" alt="Spotted Deer">
+            <div class="dark-overlay"></div>
+            <div class="info">
+                <h2>Spotted Deer</h2>
+                <p>Amazon</p>
+            </div>
+        </div>
+    </div>
+    <div class="modal">
+        <span class="close">&times;</span>
+        <img title="image" class="modal-content" id="modalImage">
+      </div>
+<script src="app.js"></script>
+</body>
+</html>
