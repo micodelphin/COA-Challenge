@@ -31,10 +31,16 @@ Once the project is running in your web browser, you can interact with the photo
   - Hover over an image thumbnail to see the zoom and brightness effect.
   - Click on an image thumbnail to open the full-size image in a modal window.
   - Click the close button or outside the modal area to close the full-size image.
+![desktop2](https://github.com/micodelphin/COA-Challenge/assets/65404544/2af7cdac-840b-4e9b-a858-e12e9d4910c7)
+![desktop1](https://github.com/micodelphin/COA-Challenge/assets/65404544/85b6e50d-f675-41cb-89e8-0d4f677621d8)
 
 - **On Mobile:**
   - Tap on an image thumbnail to open the full-size image in a modal window.
   - Tap outside the modal area to close the full-size image.
+ 
+ ![mobile2](https://github.com/micodelphin/COA-Challenge/assets/65404544/9b293038-8a6d-46f7-9a7d-7a6f8b100d76)
+![mobile1](https://github.com/micodelphin/COA-Challenge/assets/65404544/085372a0-2335-4b5c-9c99-432661494306)
+
 
 ## Contributing
 
